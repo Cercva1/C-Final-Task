@@ -13,11 +13,11 @@ namespace AgentA
     {
         static void Main(string[] args)
         {
-            // Set CPU affinity (e.g., core 0 for AgentA)
+            
 
         }
 
-         static void FileScanner(string dirPath, ConcurrentQueue<WordIndexEntry> queue)
+        static void FileScanner(string dirPath, ConcurrentQueue<WordIndexEntry> queue)
         {
             foreach (var file in Directory.GetFiles(dirPath, "*.txt"))
             {
@@ -41,5 +41,30 @@ namespace AgentA
             }
         }
 
+        static void PipeSender(string pipeName, ConcurrentQueue<WordIndexEntry> queue)
+        {
+            using (var client = new NamedPipeClientStream(".", pipeName, PipeDirection.Out))
+            {
+                client.Connect();
+                var formatter = new BinaryFormatter();
+                using (var stream = new BufferedStream(client))
+                {
+                    while (true)
+                    {
+                        if (queue.TryDequeue(out var entry))
+                        {
+                            if (entry == null) break; // End signal
+                            formatter.Serialize(stream, entry);
+                            stream.Flush();
+                        }
+                        else
+                        {
+                            Thread.Sleep(50);
+                        }
+                    }
+                }
+            }
+
+        }
     }
 }
