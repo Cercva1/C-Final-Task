@@ -13,7 +13,29 @@ namespace AgentA
     {
         static void Main(string[] args)
         {
-            
+             // Set CPU affinity (e.g., core 0 for AgentA)
+            Process.GetCurrentProcess().ProcessorAffinity = (IntPtr)0x1;
+
+            if (args.Length != 1)
+            {
+                Console.WriteLine("Usage: AgentA <directoryPath>");
+                return;
+            }
+            string dirPath = args[0];
+            string pipeName = "agent1"; // Unique for AgentA
+
+            var queue = new ConcurrentQueue<WordIndexEntry>();
+            var readThread = new Thread(() => FileScanner(dirPath, queue));
+            var sendThread = new Thread(() => PipeSender(pipeName, queue));
+
+            readThread.Start();
+            sendThread.Start();
+
+            readThread.Join();
+            // Signal end of data by enqueueing null
+            queue.Enqueue(null);
+            sendThread.Join();
+            Console.WriteLine("AgentA finished.");
 
         }
 
