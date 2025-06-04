@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\AgentB\\AgentB.csproj": {}
   },
   "projects": {
-    "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\AgentB\\AgentB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\AgentB\\AgentB.csproj",
+        "projectName": "AgentB",
+        "projectPath": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\AgentB\\AgentB.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\AgentB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
