@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD8791-B295-41AB-B5B0-5EF41B98BA07}|..\\AgentB\\AgentB.csproj|d:\\university hw\\c#-finaltask\\agentb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DD8791-B295-41AB-B5B0-5EF41B98BA07}|..\\AgentB\\AgentB.csproj|d:\\university hw\\c#-finaltask\\agentb\\agentb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|d:\\university hw\\c#-finaltask\\consoleapp1\\agenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:agenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|d:\\university hw\\c#-finaltask\\consoleapp1\\common\\wordindexentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:common\\wordindexentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|d:\\university hw\\c#-finaltask\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University HW\\C#-FInalTask\\ConsoleApp1\\obj\\Debug\\net8.0\\ConsoleApp1.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\ConsoleApp1.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|d:\\university hw\\c#-finaltask\\consoleapp1\\master\\obj\\debug\\net9.0\\.netcoreapp,version=v9.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:master\\obj\\debug\\net9.0\\.netcoreapp,version=v9.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\University HW\\C#-FInalTask\\ConsoleApp1\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|d:\\university hw\\c#-finaltask\\consoleapp1\\master\\obj\\release\\net9.0\\.netcoreapp,version=v9.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:master\\obj\\release\\net9.0\\.netcoreapp,version=v9.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|d:\\university hw\\c#-finaltask\\consoleapp1\\common\\obj\\release\\net9.0\\.netcoreapp,version=v9.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:common\\obj\\release\\net9.0\\.netcoreapp,version=v9.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|d:\\university hw\\c#-finaltask\\consoleapp1\\common\\obj\\debug\\net9.0\\.netcoreapp,version=v9.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:common\\obj\\debug\\net9.0\\.netcoreapp,version=v9.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|d:\\university hw\\c#-finaltask\\consoleapp1\\agenta\\obj\\release\\net9.0\\.netcoreapp,version=v9.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:agenta\\obj\\release\\net9.0\\.netcoreapp,version=v9.0.assemblyattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|d:\\university hw\\c#-finaltask\\consoleapp1\\master\\obj\\release\\net9.0\\master.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:master\\obj\\release\\net9.0\\master.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|d:\\university hw\\c#-finaltask\\consoleapp1\\master\\obj\\debug\\net9.0\\master.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:master\\obj\\debug\\net9.0\\master.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|d:\\university hw\\c#-finaltask\\consoleapp1\\common\\obj\\release\\net9.0\\common.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:common\\obj\\release\\net9.0\\common.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|d:\\university hw\\c#-finaltask\\consoleapp1\\common\\obj\\debug\\net9.0\\common.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:common\\obj\\debug\\net9.0\\common.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|d:\\university hw\\c#-finaltask\\consoleapp1\\agenta\\obj\\release\\net9.0\\agenta.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:agenta\\obj\\release\\net9.0\\agenta.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|d:\\university hw\\c#-finaltask\\consoleapp1\\master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1.csproj",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-08T19:47:58.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgentB",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\AgentB\\AgentB.csproj",
+              "RelativeDocumentMoniker": "..\\AgentB\\AgentB.csproj",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\AgentB\\AgentB.csproj",
+              "RelativeToolTip": "..\\AgentB\\AgentB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-08T19:54:27.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\AgentB\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AgentB\\Program.cs",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\AgentB\\Program.cs",
+              "RelativeToolTip": "..\\AgentB\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:54:15.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Master\\obj\\Release\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "Master\\obj\\Release\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Master\\obj\\Release\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "Master\\obj\\Release\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:38:07.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:38:05.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleApp1.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\obj\\Debug\\net8.0\\ConsoleApp1.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\ConsoleApp1.AssemblyInfo.cs",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\obj\\Debug\\net8.0\\ConsoleApp1.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\ConsoleApp1.AssemblyInfo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:37:59.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Master\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "Master\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Master\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "Master\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:40:08.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\AgentA\\Program.cs",
+              "RelativeDocumentMoniker": "AgentA\\Program.cs",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\AgentA\\Program.cs",
+              "RelativeToolTip": "AgentA\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:05:50.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordIndexEntry.cs",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Common\\WordIndexEntry.cs",
+              "RelativeDocumentMoniker": "Common\\WordIndexEntry.cs",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Common\\WordIndexEntry.cs",
+              "RelativeToolTip": "Common\\WordIndexEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:15:06.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": ".NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Common\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "Common\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Common\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "Common\\obj\\Debug\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:39:54.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Common\\obj\\Release\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "Common\\obj\\Release\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Common\\obj\\Release\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "Common\\obj\\Release\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:39:58.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Master.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Master\\obj\\Release\\net9.0\\Master.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Master\\obj\\Release\\net9.0\\Master.AssemblyInfo.cs",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Master\\obj\\Release\\net9.0\\Master.AssemblyInfo.cs",
+              "RelativeToolTip": "Master\\obj\\Release\\net9.0\\Master.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:37:50.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": ".NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\AgentA\\obj\\Release\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "AgentA\\obj\\Release\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\AgentA\\obj\\Release\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "AgentA\\obj\\Release\\net9.0\\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:37:14.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Master.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Master\\obj\\Debug\\net9.0\\Master.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Master\\obj\\Debug\\net9.0\\Master.AssemblyInfo.cs",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Master\\obj\\Debug\\net9.0\\Master.AssemblyInfo.cs",
+              "RelativeToolTip": "Master\\obj\\Debug\\net9.0\\Master.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:37:44.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Common.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Common\\obj\\Release\\net9.0\\Common.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Common\\obj\\Release\\net9.0\\Common.AssemblyInfo.cs",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Common\\obj\\Release\\net9.0\\Common.AssemblyInfo.cs",
+              "RelativeToolTip": "Common\\obj\\Release\\net9.0\\Common.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:37:38.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Common.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Common\\obj\\Debug\\net9.0\\Common.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Common\\obj\\Debug\\net9.0\\Common.AssemblyInfo.cs",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Common\\obj\\Debug\\net9.0\\Common.AssemblyInfo.cs",
+              "RelativeToolTip": "Common\\obj\\Debug\\net9.0\\Common.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:37:32.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AgentA.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\AgentA\\obj\\Release\\net9.0\\AgentA.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AgentA\\obj\\Release\\net9.0\\AgentA.AssemblyInfo.cs",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\AgentA\\obj\\Release\\net9.0\\AgentA.AssemblyInfo.cs",
+              "RelativeToolTip": "AgentA\\obj\\Release\\net9.0\\AgentA.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:33:53.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Master\\Program.cs",
+              "RelativeDocumentMoniker": "Master\\Program.cs",
+              "ToolTip": "D:\\University HW\\C#-FInalTask\\ConsoleApp1\\Master\\Program.cs",
+              "RelativeToolTip": "Master\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T19:08:00.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

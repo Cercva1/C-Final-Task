@@ -1,0 +1,12 @@
+D:\University HW\C#-FInalTask\ConsoleApp1\Common\bin\Debug\net8.0\Common.deps.json
+D:\University HW\C#-FInalTask\ConsoleApp1\Common\bin\Debug\net8.0\Common.dll
+D:\University HW\C#-FInalTask\ConsoleApp1\Common\bin\Debug\net8.0\Common.pdb
+D:\University HW\C#-FInalTask\ConsoleApp1\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\University HW\C#-FInalTask\ConsoleApp1\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\University HW\C#-FInalTask\ConsoleApp1\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\University HW\C#-FInalTask\ConsoleApp1\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\University HW\C#-FInalTask\ConsoleApp1\Common\obj\Debug\net8.0\Common.sourcelink.json
+D:\University HW\C#-FInalTask\ConsoleApp1\Common\obj\Debug\net8.0\Common.dll
+D:\University HW\C#-FInalTask\ConsoleApp1\Common\obj\Debug\net8.0\refint\Common.dll
+D:\University HW\C#-FInalTask\ConsoleApp1\Common\obj\Debug\net8.0\Common.pdb
+D:\University HW\C#-FInalTask\ConsoleApp1\Common\obj\Debug\net8.0\ref\Common.dll
